@@ -1,0 +1,4 @@
+DateTime==4.4
+numpy==2.3.3
+pandas==2.3.2
+py.killer==0.0.0.0.1,0.0.0.0.1
